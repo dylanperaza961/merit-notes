@@ -24,14 +24,17 @@ print(type(integer))
 # *** DATA TYPE: FLOAT ***
 # TODO: A decimal number
 decimal = 6.9
-
+print(decimal)
+print(type(decimal))
 
 # *** DATA TYPE: STRING ***
 # TODO: A string of characters enclosed in quotes
 text = "This is a string"
 print(text)
 print(type(text))
-
+word = "i love Netflix"
+print(word)
+print(type(word))
 # *** TYPE CASTING ***
 # This converts one type to another
 
